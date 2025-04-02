@@ -4,7 +4,7 @@ MY PROJECTS
 In this, I listed all the projects I build in Excel, Vba, Power Query, Python and many more .... only Videos
 
 ## 1) Excel Dynamic Header
-In this project, I use some formulas to change the header dynamically on selecting ENTITY_NAME
+In this project, I use some formulas to change the header dynamically on selecting ENTITY_NAME. As well as, If any column having listed item then on that particular column, the list will be shown.
 
 [![WATCH Excel Dynamic Header](https://github.com/deepumondal1/MyProjects/blob/master/videos/UPLOAD%20Automation_COMPRESS.gif)](https://github.com/deepumondal1/MyProjects/blob/master/videos/UPLOAD%20Automation_COMPRESS.mp4)
 
