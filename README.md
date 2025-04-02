@@ -24,9 +24,9 @@ In this project, I use VBA to split the item and keep entry on different fields 
 
 | Column A |
 |:-|
-| **A**#ItemCode#Name#Date# |
-| **B**#Pos#Seq# |
-| **C**#Qty#Amnt#Unit# |
+| **A#ItemCode#Name#Date#** |
+| **B#Pos#Seq#** |
+| **C#Qty#Amnt#Unit#** |
 | **A**#001#Apple#01-01-2025# |
 | **B**#5#1# |
 | **C**#10#1200#kgs# |
