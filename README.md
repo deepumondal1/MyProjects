@@ -7,6 +7,7 @@ In this, I listed all the projects I build in Excel, Vba, Power Query, Python an
 In this project, I use some formulas to change the header dynamically on selecting ENTITY_NAME. As well as, If any column having listed item then on that particular column, the dynamic dropdown list will be shown.
 
 **Header**
+
 [![WATCH Excel Dynamic Header](https://github.com/deepumondal1/MyProjects/blob/master/videos/UPLOAD%20Automation_COMPRESS.gif)](https://github.com/deepumondal1/MyProjects/blob/master/videos/UPLOAD%20Automation_COMPRESS.mp4)
 
 **Dynamic Dropdown**
