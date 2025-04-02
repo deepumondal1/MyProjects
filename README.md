@@ -19,7 +19,8 @@ In this project, I use VBA to split the item and keep entry on different fields 
 In this project, I use VBA to split the item and keep entry on different fields on selecting the items.
 
 #### Example :-
-Raw Data :-
+
+**Raw Data :-**
 
 | Column A |
 |:-|
@@ -40,7 +41,8 @@ Raw Data :-
 | **C**#50#150#pcs# |
 
 
-Convert to :-
+**Convert to :-**
+
 | ItemCode | Name | Date | Pos | Seq | Qty | Amnt | Unit |
 |:-|:-|:-|:-|:-|:-|:-|:-|
 | 001 | Apple | 01-01-2025 | 5 | 1 | 10 | 1200 | kgs |
