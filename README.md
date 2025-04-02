@@ -16,7 +16,7 @@ In this project, I use VBA to split the item and keep entry on different fields 
 
 
 ## 3) Excel Row Transformation
-In this project, I use VBA to split the item and keep entry on different fields on selecting the items.
+In this project, I use power query to combine each row in single column to make actual table header and split it to get the visible table.
 
 #### Example :-
 
@@ -52,3 +52,45 @@ In this project, I use VBA to split the item and keep entry on different fields 
 
 [![WATCH Excel Dynamic Header](https://github.com/deepumondal1/MyProjects/blob/master/videos/ExcelTransform.gif)](https://github.com/deepumondal1/MyProjects/blob/master/videos/ExcelTransform.mp4)
 
+
+
+## 4) Excel 2D to D Transformation
+In this project, I use a single line array function in excel to restructure the table into single column.
+
+#### Example :-
+
+**Raw Data :-**
+| ITEM | A | B | C | 
+| :-: | :-: | :-: | :-: |
+| APPLE | 100 | 200 | 300 | 
+| ORANGE | 400 | 500 | 600 | 
+| BANANA | 700 | 800 | 900 | 
+| Grape | 1000 | 1100 | 1200 | 
+| Coconut | 1300 | 1400 | 1500 | 
+
+**Convert to :-**
+| Column |
+| :- |
+| APPLE | 
+| 100 | 
+| 200 | 
+| 300 | 
+| ORANGE | 
+| 400 | 
+| 500 | 
+| 600 | 
+| BANANA | 
+| 700 | 
+| 800 | 
+| 900 | 
+| Grape | 
+| 1000 | 
+| 1100 | 
+| 1200 | 
+| Coconut | 
+| 1300 | 
+| 1400 | 
+| 1500 | 
+
+
+[![WATCH Excel Dynamic Header](https://github.com/deepumondal1/MyProjects/blob/master/videos/Excel%202D_to_D.gif)](https://github.com/deepumondal1/MyProjects/blob/master/videos/Excel%202D_to_D.mp4)
